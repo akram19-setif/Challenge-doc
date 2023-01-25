@@ -1,0 +1,56 @@
+/* Page CaclPriceApp Style  */
+/* Titles */
+h2 {
+  text-transform: uppercase;
+  text-align: start;
+  margin-bottom: 20px;
+}
+/* Container rows */
+.container {
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.col-2 {
+  flex-basis: 50%;
+  min-width:420px;
+  min-height: 500px;
+  padding-top: 100px;
+}
+.col-2:nth-child(2){
+  background-color: #F6F6F6;
+}
+
+/* Media Queries */
+@media screen and (min-width:1200px) {
+  .col-2 {
+    min-height: 710px;
+  }
+}
+/* ..... small ... */
+@media (min-width: 768px) {
+  .container {
+    width: 700px;
+  }
+}
+/* ...... medium .... */
+@media (min-width: 992px) {
+  .container {
+    width: 800px;
+  }
+}
+/* ...... Large .... */
+@media (min-width: 1200px) {
+  .container {
+    width: 900px;
+  }
+}
+

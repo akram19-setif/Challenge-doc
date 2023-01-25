@@ -1,0 +1,64 @@
+/* Product Component Style  */
+
+/* Container  */
+.product-container{ padding: 0 15px;}
+
+/* Start Product List  */
+.product-list { width: 388px;
+max-height:90px ;}
+.product {
+  padding: 10px 5px;
+  border: 1px solid #ddd;
+  box-shadow: 1px 1px 0px 0px rgba(0, 0, 0, 0.389);
+-webkit-box-shadow: 1px 1px 0px 0px rgba(0, 0, 0, 0.389);
+-moz-box-shadow: 1px 1px 0px 0px rgba(0, 0, 0, 0.389);
+margin-bottom: 20px;
+border-radius: 5px;
+}
+.product-info{
+  display: flex;
+  text-align: start;
+  max-height: 55px;
+}
+.col3-one-product {
+  flex-basis: 40%;
+}
+.col3-two-product {
+  flex-basis: 65%;
+}
+.col3-three-product{
+ flex: 1; 
+ text-align: end;
+}
+.col3-one-product img {
+  width: 100px;
+}
+/* Stars */
+.product-rating .rating{
+  display: flex;
+  flex-flow: row nowrap;
+  color: #FFBF35;
+  width: 80px;
+}
+.product-price{
+  font-weight: bold;
+}
+.description-product{
+  font-size: 13px;
+}
+
+/* Add to Cart button */
+.button-space {
+  text-align: end;
+}
+
+.button-space button {
+    background-color: #2A8CFF;
+    color: white;
+    border: none;
+    font-size: 11px;
+    text-transform: uppercase;
+    padding: 5px 38px;
+    border-radius: 2px;
+    cursor: pointer;
+}
