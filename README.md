@@ -26,7 +26,7 @@ The component Rating starts is accepting the number rating :
 
 ### React.js _ CSS3 _ Redux-Toolkit
 
-## --------- THANKS IN ADVANCE FOR GETTING ME THIS CHANCE ----------
+## --------- THANKS IN ADVANCE , I HOPE YOU LIKE IT  ----------
 
 # Getting Started with Create React App
 
