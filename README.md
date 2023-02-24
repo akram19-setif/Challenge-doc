@@ -2,18 +2,18 @@
 
 ## Offers
 
-● Buy 2 Butter and get a Bread at 50% off
-● Buy 3 Milk and get the 4th milk for free
+- Buy 2 Butter and get a Bread at 50% off.
+- Buy 3 Milk and get the 4th milk for free.
 
 ## Scénarios
 
-● Given the basket has 1 bread, 1 butter and 1 milk when I total the basket then the
-total should be £2.95
-● Given the basket has 2 butter and 2 bread when I total the basket then the total
-should be £3.10
-● Given the basket has 4 milk when I total the basket then the total should be £3.45
-● Given the basket has 2 butter, 1 bread and 8 milk when I total the basket then the
-total should be £9.00.
+- Given the basket has 1 bread, 1 butter and 1 milk when I total the basket then the
+  total should be £2.95.
+- Given the basket has 2 butter and 2 bread when I total the basket then the total
+  should be £3.10.
+- Given the basket has 4 milk when I total the basket then the total should be £3.45.
+- Given the basket has 2 butter, 1 bread and 8 milk when I total the basket then the
+  total should be £9.00.
 
 ##### Note : Component Rating starts
 
@@ -26,7 +26,7 @@ The component Rating starts is accepting the number rating :
 
 ### React.js _ CSS3 _ Redux-Toolkit
 
-## --------- THANKS IN ADVANCE , I HOPE YOU LIKE IT  ----------
+## --------- THANKS IN ADVANCE , I HOPE YOU LIKE IT ----------
 
 # Getting Started with Create React App
 
